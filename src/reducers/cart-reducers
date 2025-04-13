@@ -1,0 +1,6 @@
+import { Guitar } from '../types';
+
+export type CartActions =
+ {
+    type: 'add-to-cart', payload: {item: Guitar}
+ }
