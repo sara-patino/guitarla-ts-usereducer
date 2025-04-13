@@ -10,3 +10,6 @@ Este es un repositorio basado del proyecto [tienda-guitarras](https://github.com
 
 ## 🚀 Deployment en Netlify
 [https://precious-mooncake-1be31b.netlify.app/](https://guitarla-ts-reducer-sarap.netlify.app/)
+
+## 👁️ Vista Principal
+![vista](./public/img/guitarla.png)
